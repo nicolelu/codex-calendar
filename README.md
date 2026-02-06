@@ -1,1 +1,1 @@
-# ai-calendar
+# codex-calendar
